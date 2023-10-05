@@ -1,4 +1,3 @@
-//JS code for ToDO App
 
 var listOfActivities = [];
 
